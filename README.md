@@ -42,3 +42,8 @@ O objetivo é aplicar conceitos de **Programação Orientada a Objetos (POO)**, 
    ```bash
    javac application/Program.java
    java application.Program
+
+## 📚 Autor
+Filipi Mantelato Gonçalves
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/filipimantelato/)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/filipimantelato)
