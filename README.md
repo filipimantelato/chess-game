@@ -2,7 +2,7 @@
 [![EN](https://img.shields.io/badge/lang-en-blue.svg)](README.en.md)
 
 
-# ♟️ Chess Game em Java
+# ♟️ Jogo de Xadrez em Java
 
 Este projeto é uma aplicação em **Java puro** que simula um jogo de **xadrez** jogável via console.  
 O objetivo é aplicar conceitos de **Programação Orientada a Objetos (POO)**, boas práticas de código e lógica de programação.
