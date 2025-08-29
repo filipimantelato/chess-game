@@ -1,3 +1,7 @@
+[![PT-BR](https://img.shields.io/badge/lang-pt--br-green.svg)](README.md)
+[![EN](https://img.shields.io/badge/lang-en-blue.svg)](README-en.md)
+
+
 # ♟️ Chess Game em Java
 
 Este projeto é uma aplicação em **Java puro** que simula um jogo de **xadrez** jogável via console.  
