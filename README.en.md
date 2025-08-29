@@ -30,9 +30,9 @@ The goal is to apply concepts of **Object-Oriented Programming (OOP)**, clean co
 ---
 
 ## 📂 Project structure
-- `board/` → classes responsible for the board and positions.  
+- `boardgame/` → classes responsible for the board and positions.  
 - `chess/` → chess rules and logic.  
-- `pieces/` → implementation of pieces (`King`, `Queen`, `Rook`, `Bishop`, `Knight`, `Pawn`).  
+- `chess.pieces/` → implementation of pieces (`King`, `Queen`, `Rook`, `Bishop`, `Knight`, `Pawn`).  
 - `application/` → main class to run the game in console.  
 
 ---
